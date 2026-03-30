@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Post Reading Time
  * Plugin URI: asadujjamann.github.io
- * Description: This is a simple plugin for calculate the estimate reading time of post
+ * Description: Adds estimated reading time to posts
  * Version: 1.0.0
  * Requires at lest: 5.2
  * Requires PHP: 7.2
